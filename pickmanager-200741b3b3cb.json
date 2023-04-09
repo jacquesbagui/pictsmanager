@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kongossa",
+  "private_key_id": "200741b3b3cbc9fae51cb32d7c24329dcf5fa129",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm2+7JwcHcEJEy\nTr4OC9vJiolf3e50HZpr5umyEUtxs6GGuQKm0PLFaVGwelH30mj5Tc1xvE1caBDS\n8Ej7t+FFGuHiKCkAPPZa8W3RbNMaFVW7K4hh8fyVj/SJKPondT0cLBGia0k8/qq2\njGT3iF8eqfK+7jaww/ZrIuFcStY2fyHQtJi/MZPIpAey/fBar68YLBu/J7NuQWIQ\ny5e6NIw86d0nEH+EvC1XgPWozd/3vyTosbNfibjl2SX841n/rv9R9ovNrqhZbzpO\nh/NqtBQbYjB5tUA5L6t/5HHZseAPNN8ac2h3xFfGXUu3HoKrsqq8AWecO55bleLB\nim8JdNIpAgMBAAECggEABDkfXsi9ozOGbdNjhFRZ70yiwb9mFOlqU5CF4xoEq8+d\nFNRDWMZfEzMqfEVnto1MVyZqiAP5D4/RAJ7i17ZqI54LkBrJiShvjYBFX7Ui+hh0\nbSuZm6RxRkhdKxHTb5UVVZWhqun9Fmew0Gto9aW/zyMEBIjNgdeIcKu7wnTzAid7\nZWEXSbfsPhYG3mctQJn6laKVuuJrno8xG0LRvN26fFzNRBvHzvBAmIS0cxkKdUMw\nZvZkOWE8qhwqYfv16KJM8YivmNn39mZgh1rTWReAwq8y6n2HEyGFbY5qc107zQCU\naAxUI3e7UfhlAqmr7ObZ9zwCmPx2arnFZh1HymFa9QKBgQDWbLj8WgwVW2UHc5Ig\n+frIUy82Eh+3Eu/uq6uk/EPTwiZsGpzKmN5fc6qnWym2pzTdLuXBu/EempV0Ccj6\n1bjLyMPYTWiVU8Whune31DpGT73f3GuZWYpyyNUhOyHfi9Drlg08y1D41pV2O1dh\nMJhXGqdxhwOD7Uyl0VWhBEAFMwKBgQDHNjlf8lqRzjzveA45o7gXfTekmxU5m/4B\nn5BIg2tA5h16H82QvWE3Zz3CoyJSoUS56UxHZa4dYd4tCvjgDaRKtkFdbkLn8xFS\nMsE23Db6Gu7VNx1buGsJ5SRvljX/mEymRi0gITy5ciDu37+tC3bAIzfbVtMr0dkg\nYbcOrGsTMwKBgQCycqb8tL/rojURH3hUY1X3E2tt92VXibYODeZ6Fssn1yL8wqUL\n4m7mRy+VucOcU8kl7hqdwZhoHMQWXvJY9jalub5rK/jGlYIbF0D8xu18iG5/eEQ/\nygnzfvoIftqw3P4Qob8AgkAv5v1Z+Qa+Rp/xlagWTgN57qnkMbOungfdiwKBgGvg\nGCe11Ie6V9MRfxqFZq4Jl7Uiadb9ewoj/vzVdaH6OqIkUKv9cYSP+qjIsFBwlgfa\npvzOuf+dPLPFiknB+WKf2Tuf9skmHg4V//0WOQssxIJfSx2c+xGrrRRkEi+rqG4t\n+Ee61+hQPjc8oM4zNAYNzDSRit7izyIy5+8hPQZzAoGABioIVlxCw29FIz7dLmbw\nJqW1JUK77fRAPnioeMBE71jzfkd1YUJ7x2h4FBS3dZ8Cr3+87QakVTZDeaTi9tU7\nm9X267Yr51tSUeBf2ol64R77+m0dlfyDX0QgfIlNNk17RCDltNORSVCdnp3VUhKV\n/dPKofXN6SMV9gD6BD2+OPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "epitech-pick-manager@kongossa.iam.gserviceaccount.com",
+  "client_id": "116608566645828444000",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/epitech-pick-manager%40kongossa.iam.gserviceaccount.com"
+}
